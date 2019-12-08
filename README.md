@@ -2,7 +2,7 @@
 
 + **Utilized: Linux, C.**
 
-This program gets file with commands related to polygons (add new polygon (hexagon/heptagon/octagon), execute operation on specific group of polygons (newest polygon, all polygons, only hexagons .etc.
+This program gets file with commands related to polygons such as add new polygon (hexagon/heptagon/octagon), execute operation on specific group of polygons (newest polygon, all polygons, only hexagons .etc).
 
  **ex2_q1**
  Get file with commands and separate for 3 files, then execute ex2_q1_helper to execute the oprations in parrallel (for each file we make fork and exec).
