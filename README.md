@@ -1,7 +1,4 @@
-
-Markup :  # Polygons operations #
-
-+ **polygons_operations**
+**Polygons operations**
 
 + **Utilized: Linux, C.**
 
